@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "tvsFQcxv1C0+QK0FoRy2SCojdT302Dd8Gd3LilHczEQ=",
+  "Source": "Smeasy_Employee_Management_App.Server",
+  "BasePath": "_content/Smeasy_Employee_Management_App.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\yu-gi\\source\\repos\\Smeasy_Employee_Management_App\\smeasy_employee_management_app.client\\smeasy_employee_management_app.client.esproj",
+      "Version": 2,
+      "Source": "smeasy_employee_management_app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Smeasy_Employee_Management_App.Server.props" />
+</Project>

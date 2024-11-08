@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\yu-gi\\source\\repos\\Smeasy_Employee_Management_App\\Smeasy_Employee_Management_App.Server\\..\\smeasy_employee_management_app.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

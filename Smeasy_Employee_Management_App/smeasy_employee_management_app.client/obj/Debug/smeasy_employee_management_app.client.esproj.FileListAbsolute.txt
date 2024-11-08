@@ -1,0 +1,1 @@
+C:\Users\yu-gi\source\repos\Smeasy_Employee_Management_App\smeasy_employee_management_app.client\obj\Debug\smeasy_employee_management_app.client.esproj.CoreCompileInputs.cache
