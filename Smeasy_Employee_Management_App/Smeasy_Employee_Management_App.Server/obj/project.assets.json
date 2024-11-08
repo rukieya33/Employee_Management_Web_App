@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yu-gi\\source\\repos\\Smeasy_Employee_Management_App\\Smeasy_Employee_Management_App.Server\\Smeasy_Employee_Management_App.Server.csproj",
+      "projectUniqueName": "C:\\Users\\yu-gi\\source\\repos\\Employee_Management_Web_App\\Smeasy_Employee_Management_App\\Smeasy_Employee_Management_App.Server\\Smeasy_Employee_Management_App.Server.csproj",
       "projectName": "Smeasy_Employee_Management_App.Server",
-      "projectPath": "C:\\Users\\yu-gi\\source\\repos\\Smeasy_Employee_Management_App\\Smeasy_Employee_Management_App.Server\\Smeasy_Employee_Management_App.Server.csproj",
+      "projectPath": "C:\\Users\\yu-gi\\source\\repos\\Employee_Management_Web_App\\Smeasy_Employee_Management_App\\Smeasy_Employee_Management_App.Server\\Smeasy_Employee_Management_App.Server.csproj",
       "packagesPath": "C:\\Users\\yu-gi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yu-gi\\source\\repos\\Smeasy_Employee_Management_App\\Smeasy_Employee_Management_App.Server\\obj\\",
+      "outputPath": "C:\\Users\\yu-gi\\source\\repos\\Employee_Management_Web_App\\Smeasy_Employee_Management_App\\Smeasy_Employee_Management_App.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

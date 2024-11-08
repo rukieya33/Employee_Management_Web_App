@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smeasy_Employee_Management_App.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c15c894e9e73d12a2dc93601d932befda1d295e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4913079a665573dc3d21c0010afe4dcdbb0e4ba4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smeasy_Employee_Management_App.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smeasy_Employee_Management_App.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\smeasy_employee_management_app.client",
+    "\\smeasy_employee_management_app.client\\src",
+    "\\smeasy_employee_management_app.client\\src\\components",
+    "\\Smeasy_Employee_Management_App.Server",
+    "\\Smeasy_Employee_Management_App.Server\\Controllers",
+    "\\Smeasy_Employee_Management_App.Server\\obj"
   ],
+  "SelectedNode": "\\Smeasy_Employee_Management_App.sln",
   "PreviewInSolutionExplorer": false
 }

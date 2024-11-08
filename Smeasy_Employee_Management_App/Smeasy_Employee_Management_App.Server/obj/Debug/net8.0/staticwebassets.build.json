@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "tvsFQcxv1C0+QK0FoRy2SCojdT302Dd8Gd3LilHczEQ=",
+  "Hash": "aybx+1++psM2MvG8cmXrckcYwmzJYGRLEYekR3WgWm4=",
   "Source": "Smeasy_Employee_Management_App.Server",
   "BasePath": "_content/Smeasy_Employee_Management_App.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\yu-gi\\source\\repos\\Smeasy_Employee_Management_App\\smeasy_employee_management_app.client\\smeasy_employee_management_app.client.esproj",
+      "Identity": "C:\\Users\\yu-gi\\source\\repos\\Employee_Management_Web_App\\Smeasy_Employee_Management_App\\smeasy_employee_management_app.client\\smeasy_employee_management_app.client.esproj",
       "Version": 2,
       "Source": "smeasy_employee_management_app.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
