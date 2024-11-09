@@ -1,6 +1,0 @@
-@Smeasy_Employee_Management_App.Server_HostAddress = http://localhost:5083
-
-GET {{Smeasy_Employee_Management_App.Server_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
